@@ -53,7 +53,7 @@ Please verify against <ins>all</ins> of these platforms before submitting addend
 
 ## **Last Changes**
 
-**last check and cleanup: 2024-09-28 19:04:00 UTC (Universal Coordinated Time)**
+**last check and cleanup: 2025-06-27 18:20:00 UTC (Universal Coordinated Time)**
 
 ### New games added at last check:
 
@@ -318,7 +318,7 @@ V
 
 W
 
-* ✔ [~~Warcraft I & II Bundle~~](https://www.gog.com/game/warcraft_bundle) - Also on Battle.net
+* ✔ [~~Warcraft I & II Bundle~~](https://www.gog.com/game/warcraft_bundle) - Delisted
 * ✔ [Warhammer® 40,000: Chaos Gate](https://www.gog.com/game/warhammer_40000_chaos_gate)
 * ✔ [Warhammer® 40,000: Rites Of War](https://www.gog.com/game/warhammer_40000_rites_of_war)
 * ✔ [Warhammer®: Shadow Of The Horned Rat](https://www.gog.com/game/warhammer_shadow_of_the_horned_rat)
